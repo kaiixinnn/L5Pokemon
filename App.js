@@ -9,7 +9,7 @@ const pokemonData = [
     icon: 'bolt-lightning',
     data: [
       {
-        key: 'Pikachu',
+        key: 'Piikachu',
         num: '60',
       },
       {
